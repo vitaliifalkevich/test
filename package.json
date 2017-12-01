@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/vitaliifalkevich/test/issues"
   },
-  "homepage": "https://github.com/vitaliifalkevich/test#readme"
+  "homepage": "https://github.com/vitaliifalkevich/test#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "webpack": "^3.8.1"
+  }
 }
